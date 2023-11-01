@@ -18,9 +18,13 @@
 }
 
 .logo{
-    background-image: url("logo.png");
-    background-size: cover;
-    height: 70px;
+    /* background-image: url("logo.png"); */
+    /* background-size: cover; */
+    color: #bf0610;
+    margin-top: 2rem;
+    font-size: 2.3rem;
+    font-weight: 700;
+    height: 80px;
     width: 100%;
 }
 button{
